@@ -14,7 +14,7 @@
       ::**/settings.gradle
       ::**/build.gradle.kts
       ::**/settings.gradle.kts
-    ]
+    ]:exclude[:$.={#}:/overlay/mods]
     :/overlay/mods
   ]
 ]
